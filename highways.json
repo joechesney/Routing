@@ -1,0 +1,10 @@
+{
+  "highway1": {
+    "name": "Highway 1, California",
+    "description": "State Route 1 (SR 1) is a major north–south state highway that runs along most of the Pacific coastline of the U.S. state of California. At a total of just over 655.8 miles (1,055.4 km), it is the longest state route in California. SR 1 has several portions designated as either Pacific Coast Highway (PCH), Cabrillo Highway, Shoreline Highway, or Coast Highway. Its southern terminus is at Interstate 5 (I-5) near Dana Point in Orange County and its northern terminus is at U.S. Route 101 (US 101) near Leggett in Mendocino County. SR 1 also at times runs concurrently with US 101, most notably through a 54-mile (87 km) stretch in Ventura and Santa Barbara counties, and across the Golden Gate Bridge."
+  },
+  "highway2": {
+    "name": "The White Rim Road, Canyonlands National Park",
+    "description":"The White Rim Road is a 71.2-mile-long (114.6 km) unpaved four-wheel drive road that traverses the top of the White Rim Sandstone formation below the Island in the Sky mesa of Canyonlands National Park in southern Utah in the United States. The road was constructed in the 1950s by the Atomic Energy Commission to provide access for individual prospectors intent on mining uranium deposits for use in nuclear weapons production during the Cold War. Large deposits had been found in similar areas within the region; however, the mines along the White Rim Road produced very little uranium and all the mines were abandoned."
+  }
+}
