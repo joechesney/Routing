@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Routing</title>
+
+</head>
+<body ng-app="RoutingApp">
+    <a href="#!/cali">CALI</a>
+    <a href="#!/whiteRim">White Rim</a>
+
+  <div ng-view>
+
+  </div>
+
+  <script src="node_modules/angular/angular.min.js"></script>
+  <script src="node_modules/angular-route/angular-route.min.js"></script>
+
+  <script src="app/app.js"></script>
+  <script src="app/controllers/caliCtrl.js"></script>
+  <script src="app/controllers/WhiteRimCtrl.js"></script>
+</body>
+</html>
